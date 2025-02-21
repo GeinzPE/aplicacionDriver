@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="entregado">#289A47</color>
+    <color name="listo_recojer">#FCC422</color>
+    <color name="proceso_pedido">#317DEF</color>
+</resources>

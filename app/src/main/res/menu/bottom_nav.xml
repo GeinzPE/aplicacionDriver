@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pedidos"
+        android:icon="@drawable/pedidos_icon"
+        android:title="Pedidos" />
+    <item
+        android:id="@+id/soporte"
+        android:icon="@drawable/soporte_icon"
+        android:title="soporte" />
+    <item
+        android:id="@+id/review"
+        android:icon="@drawable/estrella_icon"
+        android:title="reseñas" />
+
+    <item
+        android:id="@+id/perfil"
+        android:icon="@drawable/cuenta_icon"
+        android:title="perfil" />
+</menu>
